@@ -1,0 +1,200 @@
+@font-face {
+
+	font-family: SourceSansPro-Semibold;
+
+	src: url(SourceSansPro-Semibold.otf);
+
+}
+
+@font-face {
+
+	font-family: SourceSansPro-Light;
+
+	src: url(SourceSansPro-Light.otf);
+
+}
+
+#linkedin_slider {
+
+	position: relative;
+
+}
+
+#ptcinwgt_linkedin_widget1 {
+
+	-webkit-border-radius: 5px;
+
+	-moz-border-radius: 5px;
+
+	border-radius: 5px;
+
+	border: 5px solid #007bb6;
+
+	background-color: #fff;
+
+	position: fixed;
+
+}
+
+#ptcinwgt_linkedin_widget2 {
+
+	overflow: hidden;
+
+	text-align: left;
+
+}
+
+#ptcinwgt_linkedin_widget1 .ptcinwgt_linkediniconlinkleft {
+
+	position: absolute;
+
+	top: 0px;
+
+	cursor: pointer;
+
+	border: 0;
+
+	z-index: 10000;
+
+}
+
+#ptcinwgt_linkedin_widget1 iframe {
+
+	border: 0px;
+
+	overflow: hidden;
+
+	position: absolute;
+
+	width: 100%;
+
+	height: 100%;
+
+}
+
+.ptcinwgt_artbox > h2.ptcinwgt_top_style {
+
+	background: #007bb6;
+
+	border-radius: 5px;
+
+	color: #fff;
+
+	font-family: SourceSansPro-Semibold;
+
+	font-size: 28px !important;
+
+	padding: 15px 0!important;
+
+	text-align: center;
+
+	font-weight: normal;
+
+}
+
+.ptcinwgt_artbox .submit {
+
+	text-align: center;
+
+	width: 520px;
+
+}
+
+
+
+.ptcinwgt_artbox .submit .button-success {
+
+	background: #007bb6 none repeat scroll 0 0;
+
+	border: medium none;
+
+	border-radius: 5px;
+
+	box-shadow: none;
+
+	color: #fff;
+
+	font-size: 18px;
+
+	font-weight: bold;
+
+	line-height: 0;
+
+	padding: 20px;
+
+	text-shadow: none;
+
+	text-transform: uppercase;
+
+	cursor: pointer;
+
+}
+
+.ptcinwgt_artbox th {
+
+	color: #007bb6;
+
+	font-size: 16px;
+
+}
+
+.ptcinwgt_artbox h2 {
+
+	color: #007bb6;
+
+	font-size: 26px;
+
+}
+
+.ptcinwgt_artbox .form-table input {
+
+	background: #fff;
+
+	border: 1px solid #007bb6;
+
+	height: 35px;
+
+	width: 300px;
+
+	color: #666;
+
+	border-radius: 3px;
+
+}
+
+.ptcinwgt_artbox select {
+
+	border: 1px solid #007bb6;
+
+	border-radius: 3px;
+
+}
+
+.ptcinwgt_idinfo{
+
+	 line-height: 20px;
+
+    padding: 5px 0;
+
+    word-spacing: 2px;
+
+}
+
+.ptcinwgt_cstshowhide{
+
+	cursor:pointer;
+
+	}	
+
+.ptcinwgt_customidinfo h4{
+
+	margin:0;
+
+	}	
+
+.ptcinwgt_customidinfo h4 span{
+
+	color:#007bb6;
+
+	}			
+
